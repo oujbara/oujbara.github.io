@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+I'm passionate about mathematics and it's applications, especialy machine learning and applied statistics.  
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc in Modeling and Analysis of Complex Systems, *Le Havre Normandy University* 2021-2022
+* M.Sc in Pur Mathematics, *University of Rouen Normandy*, 2019-2021
+* B.Sc in Pure Mathematics, *Cadi Ayyad University*, 2018
 
 Work experience
 ======
