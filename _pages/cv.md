@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-I'm passionate about mathematics and it's applications, especialy machine learning and applied statistics.  
 Education
 ======
 * M.Sc in Modeling and Analysis of Complex Systems, *Le Havre Normandy University* 2021-2022
