@@ -10,6 +10,6 @@ redirect_from:
 
 About me
 =======
-Passionate about Maths and statistics, I have an appetite for all issues related to machine learning, I like to work on projects from scratch, intervene from start to finish (definition of the need, modeling, production) An unsupervised learner, I thrive in fast paced envirnement and enjoy working in diverse teams.
+Ph.D. candidate in neuroscience blending applied mathematics with dynamical systems. Researching neural dynamics with a global perspective, based between France and the USA. I'm mostly intersted in Applied Mathematics, Dynamic Systems and Neuroscience.
 
 
