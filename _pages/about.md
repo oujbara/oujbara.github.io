@@ -2,7 +2,8 @@
 permalink: /
 title: ""
 excerpt: "About me"
-image: "images/wall.jpeg"
+header:
+ image:  "/images/wall.jpeg"
 author_profile: true
 redirect_from: 
   - /about/
