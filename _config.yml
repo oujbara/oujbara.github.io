@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Abdeltif Oujbara"
-  avatar           : "pdp.jpeg"
+  avatar           : "pdp.jpg"
   bio              : "PhD Candidate"
   location         : "Le Havre, France"
   employer         :
@@ -89,32 +89,9 @@ author:
   googlescholar    : ""
   email            : "oujbara95abdeltif@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "oujbara"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/abdeltif-oujbara/"
-  orcid            : ""
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : ""
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
