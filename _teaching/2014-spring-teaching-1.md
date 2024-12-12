@@ -1,7 +1,18 @@
 ---
-title: "2023-2024: Teaching Assistant-University of Normandy, France"
-collection: teaching
-type: "Mathematical Tools Lab (1st year)"
+title: "Attaché Temporaire d'Enseignement et de Recherche (ATER)"
+institution: "Université de Normandie"
+location: "Rouen, France"
+period: "2023-2024"
+courses:
+  - name: "Outils Mathématiques"
+    level: "Licence 1"
+    type: "Travaux Dirigés"
+    hours: 32
+  - name: "Équations Différentielles"
+    level: "Licence 3 Physique"
+    type: "Travaux Dirigés"
+    hours: 32
+total_hours: 64
 permalink: /teaching/2023-teaching
-venue:  Differential Equations (3rd year Physics)(64 teaching hours)"
+collection: teaching
 ---
