@@ -12,20 +12,17 @@ Education
 ======
 * PhD Student in Mathematics applied in Neuroscience at *Le Havre Normandy University* since 2022 
 * M.Sc in Modeling and Analysis of Complex Systems, *Le Havre Normandy University* 2021-2022
-* M.Sc in Pur Mathematics, *University of Rouen Normandy*, 2019-2021
-* B.Sc in Pure Mathematics, *Cadi Ayyad University*, 2018
+* M.Sc in Mathematics and Applications, *University of Rouen Normandy*, 2019-2021
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023-2025: Teaching Assistant - University of Normandy, France
+  * Mathematical Tools Lab (1st year) and Differential Equations (3rd year Physics)(64 teaching hours)
+  
+* 2022: Teaching Assistant - Hexagon School, Versailles, France
+  * Applied Mathematics for Computer Science (1st year)(60 teaching hours)
+  
   
 Skills
 ======
