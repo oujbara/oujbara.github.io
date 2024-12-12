@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant-University of Normandy"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2023-teaching
